@@ -1,4 +1,4 @@
 # best-repo-ever
 Second line.
 Third line.
-Fourth line. Why it was deleted?
+Fourth line - this is a change for showing merge conflict.
